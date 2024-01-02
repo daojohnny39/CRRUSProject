@@ -7,4 +7,3 @@ Cabin Rentals R Us (CRRUS) allow you to discover your perfect getaway and make m
 * Dallas Reichard
 * Johnny (Nhat) Dao
 * Hyun Kim
-# CRRUSProject
